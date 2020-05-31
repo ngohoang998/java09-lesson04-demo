@@ -1,2 +1,1 @@
-VERSION:TODO-APP-4.0-SNAPSHOT
-
+todo-app-3.0-snapshot
