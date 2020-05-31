@@ -1,1 +1,1 @@
-# java09-lesson04-demo
+VERSION:TODO-APP-4.0-SNAPSHOT
